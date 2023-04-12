@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1632760801 source:d:\home\default\documents\ufgd - disciplinas\cg\atividades\matheus cimatti - atividade8 - lcg\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1522183854 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1632760986 source:d:\home\default\documents\ufgd - disciplinas\cg\atividades\matheus cimatti - atividade6 - lcg\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1632760986 source:d:\home\default\documents\ufgd - disciplinas\paragithub\computaçãografica\atividades\matheus cimatti - atividade6 - lcg\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
